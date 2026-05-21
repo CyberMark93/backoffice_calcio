@@ -1,2 +1,3 @@
 ﻿Registro storia progetto
 Log: 2026-05-21T13:57:29 - pasted html backoffice project
+Log: 2026-05-21T14:11:09 - try commit
