@@ -2,3 +2,4 @@
 Log: 2026-05-21T13:57:29 - pasted html backoffice project
 Log: 2026-05-21T14:11:09 - try commit
 Log: 2026-05-22T16:21:05 - checkpoint per gestione utenti
+Log: 2026-06-08T09:32:14 - salvataggio in data 9-6-26
