@@ -11,3 +11,4 @@ Log: 2026-06-10T10:33:45 - implementazione campo arbitri. (manca sitemazione di:
 Log: 2026-06-10T11:33:11 - piccole modifiche. commit pre ricerca bug.
 Log: 2026-06-10T15:19:34 - commit intermedio durante bugfix.
 Log: 2026-06-11T10:47:37 - commit intermedio per vari implementi/bufixs
+Log: 2026-06-11T12:23:28 - salvataggio prima di fix anti XSS (PER INTERO FILE)
