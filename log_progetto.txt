@@ -10,3 +10,4 @@ Log: 2026-06-08T15:43:06 - aggiunta logo e cambio colori layout dark theme (colo
 Log: 2026-06-10T10:33:45 - implementazione campo arbitri. (manca sitemazione di: area di controllo e dei 2 tipi di log, e parte comunicazioni (volendo anche dashboard iniziale).
 Log: 2026-06-10T11:33:11 - piccole modifiche. commit pre ricerca bug.
 Log: 2026-06-10T15:19:34 - commit intermedio durante bugfix.
+Log: 2026-06-11T10:47:37 - commit intermedio per vari implementi/bufixs
