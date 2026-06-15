@@ -17,3 +17,4 @@ Log: 2026-06-12T11:09:07 - commit pre-sistemazione della logica di undo
 Log: 2026-06-12T15:18:12 - sistemazione fix vari
 Log: 2026-06-12T15:49:18 - commit post buf fix vari
 Log: 2026-06-12T16:11:58 - inserimento logo
+Log: 2026-06-15T16:30:39 - fix vari, implementato molto materiale. completato voce account in area di controllo.
