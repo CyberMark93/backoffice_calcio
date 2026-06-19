@@ -23,3 +23,4 @@ Log: 2026-06-16T16:11:09 - checkpoint pre mvp con anche dati fittizi viola e mod
 Log: 2026-06-18T14:53:40 - grosso fix (dopo compattazione file, bufix piccola entita) intermedio anche alla risoluzione dei permessi/auth/accessi/ introdotta modalità demo.
 Log: 2026-06-19T08:44:32 - commit causa mockup precedente non funzionava (bug scerhmo bianco senza la struttura sito)
 Log: 2026-06-19T08:56:23 - aggiunta dei js e css mancanti per fixare funzionamento
+Log: 2026-06-19T09:41:04 - rinominato il file xxxx_Progetto_Moduli_App.md
