@@ -1,4 +1,4 @@
-﻿Registro storia progetto
+Registro storia progetto
 Log: 2026-05-21T13:57:29 - pasted html backoffice project
 Log: 2026-05-21T14:11:09 - try commit
 Log: 2026-05-22T16:21:05 - checkpoint per gestione utenti
@@ -20,7 +20,7 @@ Log: 2026-06-12T16:11:58 - inserimento logo
 Log: 2026-06-15T16:30:39 - fix vari, implementato molto materiale. completato voce account in area di controllo.
 Log: 2026-06-16T12:11:22 - fixato alcuni rbac e piccolezze. salvo prima di grossa mole cambiamenti.
 Log: 2026-06-16T16:11:09 - checkpoint pre mvp con anche dati fittizi viola e moduli quasi completati al minimo
-Log: 2026-06-18T14:53:40 - grosso fix (dopo compattazione file, bufix piccola entita) intermedio anche alla risoluzione dei permessi/auth/accessi/ introdotta modalità demo.
+Log: 2026-06-18T14:53:40 - grosso fix (dopo compattazione file, bufix piccola entita) intermedio anche alla risoluzione dei permessi/auth/accessi/ introdotta modalit� demo.
 Log: 2026-06-19T08:44:32 - commit causa mockup precedente non funzionava (bug scerhmo bianco senza la struttura sito)
 Log: 2026-06-19T08:56:23 - aggiunta dei js e css mancanti per fixare funzionamento
 Log: 2026-06-19T09:41:04 - rinominato il file xxxx_Progetto_Moduli_App.md
