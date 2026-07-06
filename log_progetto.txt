@@ -26,3 +26,4 @@ Log: 2026-06-19T08:56:23 - aggiunta dei js e css mancanti per fixare funzionamen
 Log: 2026-06-19T09:41:04 - rinominato il file xxxx_Progetto_Moduli_App.md
 Log: 2026-06-19T09:43:08 - eliminato file duplicato(con il nome precedente (senza _App.md finale))
 Log: 2026-07-06T16:39:47 - ULTIMO commit con vari dati in formato txt e md per poter riprendere il progetto, fare aggiunte, e come avrei continuato in scaletta, io (VEDI specialmente ROADMAP xxxx.md).
+Log: 2026-07-06T16:51:26 - Merge pull request #3 from XXXXXX/feature/mockup-backoffice
