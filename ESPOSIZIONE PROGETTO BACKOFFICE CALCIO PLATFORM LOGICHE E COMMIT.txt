@@ -1,0 +1,11 @@
+# Enterprise Sports Back-Office Platform
+
+Questo repository documenta l'architettura logica, il flusso dei dati e le tappe di sviluppo di una piattaforma di back-office enterprise per la gestione di dati sportivi, anagrafiche atleti e metriche di performance in tempo reale.
+
+## 🛠️ Stack Tecnologico & Architettura
+* **Frontend/UI:** Layout responsive, pannelli di controllo statistici e ottimizzazione delle viste per amministratori.
+* **Data Management:** Gestione di flussi di dati complessi, relazioni tra tabelle (atleti, partite, statistiche) e ottimizzazione delle query.
+* **Security:** Gestione granulare di ruoli e permessi per gli operatori di back-office.
+
+## 📈 Storico dello Sviluppo (Verified Commit Log)
+Trattandosi di software proprietario sviluppato per un'organizzazione terza, il codice sorgente originale è confidenziale. Di seguito viene riportata la cronologia verificata dei moduli e delle funzionalità che ho ideato, strutturato e integrato da me soltanto:

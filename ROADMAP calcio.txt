@@ -1,0 +1,17 @@
+Avrei continuato con quest'ordine:
+
+Va eseguita ricerca bug per ogni stub nel mockup a livello capillare.
+- Area di controllo ha alcune funzioni che sono ancora in stub.
+- Digital ID (manca un nuovo digitale ID per nuovi atleti). (perchè non lo crea in automatico)
+- Manca la gestione di una partita singola. (il sistema inizialmente è stato ideato per generare direttamente campionati, quindi manca ancora l'inserimento della singola partita).
+- in VIOLA sono SEMPRE  dati fittizi (SEED)(MA ANCHE ALCUNI IN BIANCO), mentre in bianco, generalmente, compariranno quelli che vengono aggiunti nel sistema quando si crea (per es una squadra, un atleta, etc..)
+
+- Dentro registra arbitro, va sistemato/rivista tutta la view relativa Alle sue registrazioni C'è molto da fixare, ma è una scheda con molti dati relativi al suo inserimento 
+- nel modulo "comunicazioni" c'è solo una base.
+-  Il modulo "Gestione documentazione" ha solo una base.
+- anche il modulo tre, "iscrizioni e pagamenti" ha solo una base, 
+- il modulo quattro "statistiche" si basa su dati fittizi in viola, Momentanei perché non ce ne sono di reali inseriti.
+- Da modulo 5 Community in poi è tutto da fare.
+- Mancano una voce impostazioni nel menu` che ritengo sia necessaria. 
+
+Allego inoltre un file con icone per quanto riguarda la "gestione"delle  impostazioni in un modulo futuro che avevo ideato per gestire problematiche varie. Il file si chiama Info supporto. MD . 
